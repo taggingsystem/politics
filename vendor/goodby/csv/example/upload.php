@@ -17,7 +17,7 @@
                 <fieldset>
 
                     <!-- Form Name -->
-                    <legend>Form Name</legend>
+                    <legend>Upload .CSV dataset to SQL database</legend>
 
                     <!-- File Button -->
                     <div class="form-group">
